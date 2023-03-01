@@ -4,7 +4,8 @@ draft: false
 id: dtrust
 title: D-Trust
 
----
+![d-trust_Logo_RGB_300dpi](https://user-images.githubusercontent.com/126678632/222143259-aaacb8b3-3f4b-4b7b-9984-a32949d1b3aa.png)
+
 
 ## About D-Trust
 
@@ -13,7 +14,7 @@ Trust is a decisive factor for communication in the digital world and when trans
 > You can rely on us as a trust service provider – with no ifs and buts.  
 > Fair conduct is our maxim. That's because we are keen to establish sustainable business relationships and with our high-quality service, we can offer our customers what they really need.
 >
-> **Dr. Kim Nguyen (CEO), Dr. Martin Riegel (CEO)**
+> **Dr. Kim Nguyen (CEO),Andrea Kyre, LL.M.**
 
 ## Our solutions
 
